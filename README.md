@@ -1,7 +1,3 @@
-Here is a clean and professional **GitHub README.md** file for your **Word Guessing Game in Python** project: 🚀🎮  
-
----
-
 ## 🕵️‍♂️ Word Guessing Game in Python (Two Player Game)
 ### 🎮 **A Fun Word Guessing Game Using Python's `getpass` & `random` Library**
 
