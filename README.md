@@ -72,8 +72,8 @@ Word-Guessing-Game
 ### ✅ Step 1: Clone This Repository
 Open your terminal and run:  
 ```bash
-git clone https://github.com/your-username/word-guessing-game.git
-cd word-guessing-game
+git clone https://github.com/Shreyu-07/Word-Game.git
+cd Word-Game
 ```
 
 ---
@@ -81,7 +81,7 @@ cd word-guessing-game
 ### ✅ Step 2: Run The Game
 Run the Python file using:  
 ```bash
-python guessing_game.py
+python Word-Game.py
 ```
 
 ---
